@@ -15,7 +15,7 @@ public class App {
      */
     public static void main(String[] args) {
         System.out.println("Linux ");    
-            System.out.println("Distribucion Mandriva");}
+            System.out.println("Distribucion Mandriva");
 
         System.out.println("Linux "); 
             System.out.println("Distribucion Suse");
