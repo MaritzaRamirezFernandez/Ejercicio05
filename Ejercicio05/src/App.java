@@ -17,4 +17,9 @@ public class App {
         System.out.println("Linux ");    
             System.out.println("Distribucion Mandriva");}
 
+        System.out.println("Linux "); 
+            System.out.println("Distribucion Suse");
+
+    }
+    
 }
