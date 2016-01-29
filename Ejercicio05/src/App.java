@@ -14,6 +14,8 @@ public class App {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        System.out.println("Linux "); 
+        System.out.println("linux 2");//:D 
         System.out.println("Linux ");    
             System.out.println("Distribucion Mandriva");
 
