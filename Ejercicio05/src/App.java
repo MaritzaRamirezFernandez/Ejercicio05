@@ -15,7 +15,8 @@ public class App {
      */
     public static void main(String[] args) {
         System.out.println("Linux "); 
-        System.out.println("linux 2");//:D 
+        System.out.println("linux 2");
+        System.out.println("comit etc");
     }
     
 }
